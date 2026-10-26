@@ -1,3 +1,5 @@
+> Current deployed QP8 LP source release: [genesis-hook-qp8-lp](https://github.com/ttomazamon-debug/genesis-hook-qp8-lp). This repository remains historical; it is not the current deployment source.
+
 # Historical GenesisHook evidence — June 2026
 
 **Historical reports, not current QP8 LP evidence.**
